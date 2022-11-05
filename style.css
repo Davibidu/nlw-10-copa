@@ -84,7 +84,7 @@ header {
 
    width: fit-content;
    margin-inline: auto;
-   
+   cursor: pointer;
 
 }
 
@@ -105,7 +105,7 @@ header {
     display: flex;
     flex-direction: column;
     gap: 24px;
-
+    cursor: pointer;
     width: 270px;
 }
 
